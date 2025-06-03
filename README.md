@@ -57,7 +57,12 @@
 </p>
 
 ---
+## 📊 GitHub Contributions
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/juanjoher" alt="Juan Jose's GitHub chart" width="600" />
+</p>
+---
 ## 📂 Featured Projects
 
 - **[CalendApp](https://github.com/juanjoher/ProyectoMoviles)**  
