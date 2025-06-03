@@ -59,14 +59,14 @@
 
 ## 📂 Featured Projects
 
-- **[User Management Platform](https://github.com/juanjoher/user-management)**  
-  Web app to manage users, shifts, and schedules — built with React, Tailwind and Firebase.
+- **[CalendApp](https://github.com/juanjoher/ProyectoMoviles)**  
+ An Android app built with Kotlin to efficiently manage employee schedules, ensuring seamless shift coordination and workforce organization.
 
-- **[Visual Agenda App](https://github.com/juanjoher/visual-agenda)**  
-  A multi-user Kotlin agenda using Jetpack Compose and Firestore.
+- **[EcoCash](https://github.com/juanjoher/EcoCash)**  
+  A sleek and responsive web application built with HTML, CSS, and JavaScript, designed to help users effortlessly track their income and expenses, visualize financial trends, and improve budgeting decisions.
 
-- **[Auth Microservice](https://github.com/juanjoher/auth-service)**  
-  Node.js microservice for user authentication and registration.
+- **[JapiBank](https://github.com/MARAST01/JAPIBANK)**  
+ A secure and modern digital banking platform built with HTML, CSS, and JavaScript for the frontend, powered by Node.js and PostgreSQL for robust data management. It offers seamless transactions, account tracking, and financial insights with an intuitive user experience.
 
 ---
 
