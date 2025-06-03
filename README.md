@@ -74,7 +74,10 @@
 
 - 📱 Build high-performance, user-friendly apps  
 - 🧠 Strengthen my backend skills with Node.js and PostgreSQL  
-- 🌍 Collaborate on open-source projects  
+- 🐍 Improve my data handling, automation, and scripting skills using Python  
+- ☕ Deepen my understanding of object-oriented programming and backend development with Java  
+- 🌍 Collaborate on open-source projects and contribute to the developer community  
+
 
 ---
 
