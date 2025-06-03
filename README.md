@@ -2,6 +2,10 @@
 <h3 align="center">Systems Engineering Student</h3>
 
 <p align="center">
+  <img src="https://github.com/juanjoher/juanjoher/blob/main/profile-pic.png" alt="Juan José profile photo" width="150" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/juanjhernandeza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
