@@ -1,51 +1,78 @@
-# 💼 Juan Jose | Full Stack Developer
+<h1 align="center">Hi 👋, I'm Juan Jose</h1>
+<h3 align="center">Full Stack Developer | Systems Engineering Student</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-profile)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=for-the-badge)](https://your-portfolio.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge)](https://github.com/yourusername)
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+  </a>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=for-the-badge" alt="Portfolio">
+  </a>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 Software Engineer with a passion for crafting elegant solutions.  
-💡 Constantly learning and pushing my limits.  
-⚙️ Languages: JavaScript | Kotlin | TypeScript | Python  
-🧠 Frameworks: React | Jetpack Compose | Node.js | Firebase  
-🌍 Languages: English (C1), Spanish (Native), Portuguese (B2)
+🎓 I’m a Systems Engineering student with a technical degree in Software Programming and currently studying Software Analysis and Development Technology.  
+🤝 I’m responsible, a team player, and have strong assertive communication skills.  
+💡 Passionate about technology and always eager to learn and build useful digital solutions.  
+🧠 Languages: Spanish (Native) | English (C1) | Portuguese (B2)  
+🌍 Based in Colombia 🇨🇴
 
 ---
 
 ## 🛠️ Tech Stack
 
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-square)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+<div align="center">
+  
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+
+</div>
 
 ---
 
-## 📂 Projects
+## 📊 GitHub Stats
 
-### 🗂️ [User Management Platform](https://github.com/yourusername/user-management)
-> A Firebase-integrated web app to manage users, shifts, and schedules in real time. Built with React + Tailwind + Firestore.
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=juanjoher&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoher&layout=compact&theme=radical" />
+</p>
 
-### 🗓️ [Visual Agenda App](https://github.com/yourusername/visual-agenda)
-> Daily agenda with custom UI for multiple users. Built with Jetpack Compose and Firestore.
+---
 
-### 🔐 [Auth Microservice](https://github.com/yourusername/auth-service)
-> Secure authentication and registration service using Node.js and Firebase Auth.
+## 📂 Featured Projects
+
+- **[User Management Platform](https://github.com/juanjoher/user-management)**  
+  Web app to manage users, shifts, and schedules — built with React, Tailwind and Firebase.
+
+- **[Visual Agenda App](https://github.com/juanjoher/visual-agenda)**  
+  A multi-user Kotlin agenda using Jetpack Compose and Firestore.
+
+- **[Auth Microservice](https://github.com/juanjoher/auth-service)**  
+  Node.js microservice for user authentication and registration.
 
 ---
 
 ## 🎯 Goals
 
-- 🔄 Master clean architecture in Android & web
-- 🌐 Contribute to open-source regularly
-- 🚀 Build and deploy a SaaS product
+- 📱 Build high-performance, user-friendly apps  
+- 🧠 Strengthen my backend skills with Node.js and PostgreSQL  
+- 🌍 Collaborate on open-source projects  
 
 ---
 
@@ -57,4 +84,10 @@
 
 ---
 
-*Made with ❤️ by Juan Jose*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=juanjoher&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">✨ Made with ❤️ by Juan Jose ✨</p>
