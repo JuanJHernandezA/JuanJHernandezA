@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan José Hernández</h1>
 <h3 align="center">Systems Engineering Student</h3>
 
-<p align="center">
-  <img src="https://github.com/juanjoher/juanjoher/blob/main/profile-pic.png" alt="Juan José profile photo" width="150" style="border-radius: 90%;" />
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/juanjhernandeza/" target="_blank">
