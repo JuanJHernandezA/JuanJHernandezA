@@ -1,16 +1,17 @@
-<h1 align="center">Hi 👋, I'm Juan Jose</h1>
-<h3 align="center">Full Stack Developer | Systems Engineering Student</h3>
+<h1 align="center">Hi 👋, I'm Juan José Hernández</h1>
+<h3 align="center">Systems Engineering Student</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/juanjhernandeza/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:juanjosehernandezarenas4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge" alt="Gmail">
   </a>
+  <!--
   <a href="https://your-portfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&style=for-the-badge" alt="Portfolio">
-  </a>
+  </a>-->
 </p>
 
 ---
@@ -41,6 +42,7 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge)
 
 </div>
 
@@ -78,9 +80,11 @@
 
 ## 📫 Contact Me
 
-📩 Email: your.email@gmail.com  
-🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)  
-📱 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+📩 Email: juanjosehernandezarenas4@gmail.com  
+<!--
+🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
+-->
+📱 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/juanjhernandeza/)
 
 ---
 
