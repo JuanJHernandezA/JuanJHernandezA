@@ -22,7 +22,7 @@
 🎓 I’m a Systems Engineering student with a technical degree in Software Programming and currently studying Software Analysis and Development Technology.  
 🤝 I’m responsible, a team player, and have strong assertive communication skills.  
 💡 Passionate about technology and always eager to learn and build useful digital solutions.  
-🧠 Languages: Spanish (Native) | English (C1) | Portuguese (B2)  
+🧠 Languages: Spanish (Native) | English (B1) | Portuguese (A2)  
 🌍 Based in Colombia 🇨🇴
 
 ---
@@ -66,7 +66,7 @@
 - **[EcoCash](https://github.com/juanjoher/EcoCash)**  
   A sleek and responsive web application built with HTML, CSS, and JavaScript, designed to help users effortlessly track their income and expenses, visualize financial trends, and improve budgeting decisions.
 
-- **[JapiBank](https://github.com/MARAST01/JAPIBANK)**  
+- **[JapiBank](https://github.com/juanjoher/JAPIBANK/)**  
  A secure and modern digital banking platform built with HTML, CSS, and JavaScript for the frontend, powered by Node.js and PostgreSQL for robust data management. It offers seamless transactions, account tracking, and financial insights with an intuitive user experience.
 
 ---
