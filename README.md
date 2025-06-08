@@ -89,7 +89,7 @@
 <!--
 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
 -->
-📱 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/juanjhernandeza/)
+📱 LinkedIn: [linkedin.com/in/juanjhernandeza/](https://www.linkedin.com/in/juanjhernandeza/)
 
 ---
 
