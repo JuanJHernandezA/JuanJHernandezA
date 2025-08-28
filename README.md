@@ -52,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=juanjoher&show_icons=true&theme=radical" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanjoher&layout=compact&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=JuanJHernandezA&show_icons=true&theme=radical" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJHernandezA&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -94,7 +94,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=juanjoher&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=JuanJHernandezAr&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
 
