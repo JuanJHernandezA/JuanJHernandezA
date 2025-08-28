@@ -97,6 +97,4 @@
   <img src="https://komarev.com/ghpvc/?username=juanjoher&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views" />
 </p>
 
----
 
-<p align="center">✨ Made with ❤️ by Juan Jose ✨</p>
